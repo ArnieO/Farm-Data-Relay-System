@@ -47,7 +47,7 @@ Each sensor in the system sends its data over ESP-NOW as a float 'd' inside of a
 - Some ability to compress data for more efficient LoRa usage and to avoid using floats. Better documentation/development of the DataReading 'type' attribute will come with this. 
  
 ## Thank you
-...very much for checking out my project! I truly appreciate everyone across the net who has reached out with assistance and encouragement. If you have any questions, comments, or issues please feel free to contact me at timmbogner@gmail.com.
+...very much for checking out my project! I truly appreciate everyone across the net who has reached out with assistance and encouragement. If you have any questions, comments, or issues please feel free to contact me at timmbogner@gmail.com. 
 
 If you have any extra money, **please consider [supporting me](https://www.buymeacoffee.com/TimmB).** I'm a farmer, landscaper, and grocery store clerk by occupation, so donations would help me to spend more time developing farm gadgets. 
 
